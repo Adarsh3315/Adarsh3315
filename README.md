@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Adarsh3315
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @Adarsh3315  
 
-<!---
-Adarsh3315/Adarsh3315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🎉  
+
+## 🌟 About Me  
+- 🏆 This is my brand-new GitHub account with GitHub Pro Access! 🚀  
+- 👀 I’m interested in cloud computing, artificial intelligence (AI), machine learning (ML), application development, and quantum mechanics.  
+- 🌱 I’m currently learning Advanced cloud technologies, AI/ML frameworks, and Linux systems.  
+- 💞️ I’m looking to collaborate on AI/ML solutions, cloud-based applications, and cutting-edge tech projects.  
+- 📫 How to reach me: Feel free to email me or connect on LinkedIn!  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m a tech enthusiast who also loves cricket, astrophysics, and all Iron Man movies! 🦾🎥  
+
+---
+
+✨ This repository is special ✨ because its `README.md` appears on my GitHub profile.  
+Click the Preview link to check it out. 😎
