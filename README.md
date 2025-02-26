@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🎉
 - 💞️ I’m looking to collaborate on AI/ML solutions, cloud-based applications, and cutting-edge tech projects.  
 - 📫 How to reach me: Feel free to email me or connect on LinkedIn!  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a tech enthusiast who also loves cricket, astrophysics, and all Iron Man movies! 🦾🎥  
+- ⚡ Fun fact: I'm a tech lover who also enjoys cricket, astrophysics, and all Iron Man movies! 🦾🎥 
 
 ---
 
