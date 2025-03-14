@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Adarsh3315  
+# 👋 Hi, I’m Adarsh Pandey  
 
 Welcome to my GitHub profile! 🎉  
 
